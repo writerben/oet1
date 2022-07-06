@@ -1,12 +1,17 @@
 ---
 templateKey: blog-post
 title: What is OET?
-date: 2017-10-05T15:04:10.000Z
-description: What is OET, its relevance, do you need to sit an OET exam?
+date: 2022-07-06T14:58:36.330Z
+description: What is OET, its relevance, and do you need to sit an OET exam?
 featuredpost: true
 featuredimage: /img/oet.jpg
 tags:
   - OET
+  - nursing
+  - training
+  - teaching
+  - online
+  - oet
 ---
 ## The Background of OET
 
