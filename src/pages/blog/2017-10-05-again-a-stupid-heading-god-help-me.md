@@ -1,16 +1,12 @@
 ---
 templateKey: blog-post
-title: Again a stupid heading, God help me
+title: What is OET?
 date: 2017-10-05T15:04:10.000Z
-description: Dolorum aliquam sit eum, illum ad, nostrum quaerat vitae corporis,
-  laboriosam quasi iusto fugit! Natus explicabo fugiat fugit inventore
-  voluptatum vel at ut temporibus.
+description: What is OET, its relevance, do you need to sit an OET exam?
 featuredpost: true
-featuredimage: /img/image6.png
+featuredimage: /img/oet.jpg
 tags:
-  - how to
-  - tech
-  - programming
+  - OET
 ---
 ## The Background of OET
 
