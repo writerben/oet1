@@ -4,7 +4,7 @@ title: "IELTS: What is it?"
 date: 2017-12-19T15:04:10.000Z
 description: Short description of IELTS and what it is used for.
 featuredpost: true
-featuredimage: /img/image5.png
+featuredimage: /img/ielts.png
 tags:
   - IELTS
   - SCORE
