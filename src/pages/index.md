@@ -2,6 +2,6 @@
 templateKey: index-page
 title: Alex Murphy
 image: /img/home-jumbotron.jpg
-heading: Alex Murphy
-subheading: Developer with a flair for design
+heading: OETIELTS
+subheading: Best OET and IELTS Training
 ---
