@@ -1,33 +1,42 @@
 ---
-templateKey: 'blog-post'
-title: 'Finally a heading that makes sense'
+templateKey: blog-post
+title: "IELTS: What is it?"
 date: 2017-12-19T15:04:10.000Z
+description: Short description of IELTS and what it is used for.
 featuredpost: true
 featuredimage: /img/image5.png
-description: Laudantium, quod reprehenderit deleniti id dolore nostrum aliquid velit doloribus sint atque quidem
 tags:
-  - blog
-  - dummy text
-  - how to
-  - tech
+  - IELTS
+  - SCORE
+  - IMMIGRATION
+  - ENGLISH
+  - KANGUAGE
+  - TEST
+  - OET
 ---
+# What is IELTS?
 
-# h1: Heading
+The International English Language Testing System (IELTS) was created to assist you in moving to a country where English is the dominant language in order to work, study, or move. This includes the USA, UK, Canada, New Zealand, Australia, and others.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque deleniti consequatur aliquid ab, accusamus praesentium vel eligendi ullam, at eaque animi facere harum consequuntur eius perferendis esse vero! Consequatur quia optio corporis id laudantium exercitationem, placeat ea delectus, non rem eveniet ullam! Magnam, natus numquam? Sit, amet. Modi, sit sed.
+During the test, your proficiency in speaking, reading, and writing English will be evaluated. IELTS is scored on a scale from 1 to 9.
 
-![Chemex](/img/chemex.jpg)
+The British Council, IDP: IELTS Australia, and Cambridge English all jointly own IELTS.
 
-Quis excepturi reiciendis beatae pariatur fugiat. Et delectus distinctio reprehenderit quos. Totam voluptas praesentium enim aut maxime eaque repellat nostrum nesciunt necessitatibus, sint ipsum harum deleniti quaerat ullam ea ipsam minima. Eligendi maxime quis atque sed molestiae, esse eos tempora perferendis ex.
+![Chemex](/img/ielts.png)
 
-## h2: Sub-heading
+## IELTS: Why take it?
 
-Veniam, nobis. Quia saepe iure minus ab facere accusamus adipisci dolorem cupiditate non suscipit praesentium ipsam animi enim dolore ullam nihil omnis deleniti sequi eos sed ex, fugiat nam ipsum architecto. Consequatur quas similique inventore dolorem alias amet dignissimos vero distinctio nobis rem temporibus, qui assumenda et quam doloribus non. Quis excepturi reiciendis beatae pariatur fugiat. Et delectus distinctio reprehenderit quos
+You must be able to demonstrate a high level of English language proficiency if you want to work, reside, or study in an English-speaking country.
 
-### h3: sub-sub-heading
+With 379 million speakers globally, English is the third most widely spoken language.
 
-Est omnis mollitia officiis optio dolores quae veritatis rerum autem iure cum reiciendis, delectus qui labore, excepturi illo obcaecati quibusdam asperiores illum. Dolorum aliquam sit eum, illum ad, nostrum quaerat vitae corporis, laboriosam quasi iusto fugit! Natus explicabo fugiat fugit inventore voluptatum vel at ut temporibus. Qui dolorum voluptatem dolores, tenetur ex tempore eius doloribus fugiat quo esse officiis animi perspiciatis quod ea suscipit consequuntur earum nihil beatae distinctio? Laudantium, quod reprehenderit deleniti id dolore nostrum aliquid velit doloribus sint atque quidem quo beatae error officiis cumque unde, odit voluptate consequatur veritatis, maxime dolor libero magni autem
+There are several advantages to being able to speak in the national tongue of the country you want to work or study in. Additionally, it is necessary for community integration and job prospects.
 
-### h3: sub-sub heading
+For people wishing to immigrate to countries like Australia, Canada, New Zealand, and the UK, IELTS is the test of choice. More than 11,000 employers, universities, schools, and immigration agencies around the world, including 3,400 institutions in the USA, recognize it.
 
-Corrupti, consequatur voluptates impedit blanditiis unde et nisi doloremque eaque voluptas ullam repudiandae, obcaecati error! Maxime adipisci molestias corrupti sint nostrum, sit accusantium dolor distinctio ipsam culpa sapiente soluta labore officiis earum quas amet dolorum illum, dolorem ea harum minima non alias, odio quos. Tempora mollitia dolores, provident natus autem culpa quae officia, sunt vitae nesciunt et explicabo omnis nemo similique dolorum a, asperiores ea optio architecto quaerat dolor odio. Doloremque obcaecati, velit dolores et dignissimos facilis odit, nulla id ducimus eius esse quam quibusdam? Aspernatur nam, amet assumenda voluptate excepturi sit magni omnis similique doloribus maiores quo autem atque odit nesciunt mollitia ab quibusdam corporis iure totam dolorum laboriosam a. Ratione vitae voluptatibus neque
+## What IELTS score should I aim for?
+
+
+The better your IELTS score, the more effective and proficient your English communication skills are. Specific IELTS score requirements will apply to each immigration body, university, workplace, or institution. Whether you want to work or study in the country will determine the score you need.
+
+##### Please check [this link to see](https://www.ielts.org/about-ielts/who-accepts-ielts-scores) what score you need.
