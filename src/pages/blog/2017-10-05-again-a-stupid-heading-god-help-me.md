@@ -44,8 +44,6 @@ The OET specifically covers a number of healthcare occupations. These include th
 
 <!--EndFragment-->
 
-
-
 OET is widely acknowledged in nations such the UK, Ireland, Australia, New Zealand, Ukraine, Dubai, Singapore, and Namibia, to name a few.  The OET, which was created expressly for the healthcare sector, paves the way for OET candidates to work or study in the medical sector while also assisting test-takers in learning the language that healthcare professionals are expected to be familiar with on the job.
 
 ## OET Scoring Method
@@ -62,10 +60,7 @@ The price of the OET exam is $587 AUD, or its equivalent in local currency. This
 
 There are at least one OET tests held each month in at least 40 different nations, for a total of 14 tests per year. Candidates must make reservations far in advance to guarantee they can take the exam at the time and venue of their choice because not every test for every healthcare profession is offered every month. Application deadlines are several weeks before the exam date, therefore it's crucial to make reservations early.
 
-
-
 ## Language Tests in the OET
-
 
 These four categories of English language proficiency are examined by the examination, which includes a "sub-test" for each one.
 
@@ -74,8 +69,6 @@ Reading Listening Writing Speaking
 All applicants must complete some portions of the test, but others are only relevant to those particular fields of study. This means that although some papers are generic for all professions, others are industry-specific.
 
 The Reading, Listening, and Speaking sub-tests are generic tests that apply to all OET occupations, whereas the Writing and Speaking sub-tests are unique to a given profession.
-
-
 
 ### Reading
 
@@ -86,11 +79,7 @@ The Reading, Listening, and Speaking sub-tests are generic tests that apply to a
 * Part A questions require short answers
 * Part B and Part C consist of objective questions
 
-
-
 ### Listening
-
-
 
 * This sub-test is general and is the same across all the OET healthcare professions
 * Consists of 3 parts – Part A, B and C
@@ -104,3 +93,9 @@ This sub-test is profession specific and is different for each of the OET health
 
 * Consists of a stimulus (case notes) for candidates to read, and then candidates will have to write a letter based on the case notes
 * The reading time allocated is 5 minutes and candidates only have 40 minutes after that to write the letter
+
+<!--StartFragment-->
+
+<a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Hello%20world" data-size="large"> Tweet</a>
+
+<!--EndFragment-->
